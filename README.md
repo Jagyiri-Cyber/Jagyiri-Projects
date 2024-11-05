@@ -1,5 +1,6 @@
 # Hello, I'm Jesse Johnson Agyiri  
 <a href="https://www.linkedin.com/in/jagyiri"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jagyiri"><img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 ## Objective
 A committed cybersecurity professional with hands-on experience in implementing security frameworks, threat identification, and incident response. Currently seeking opportunities to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst.
@@ -7,9 +8,11 @@ A committed cybersecurity professional with hands-on experience in implementing 
 ## Skills & Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtual Network Simulation with OPNSense Firewall, Suricata IDS/IPS, Squid Transparent Proxy & Web Filtering, and High Availability Configuration        | [Network Defense & Threat Detection Lab](https://github.com/Jagyiri-Cyber/Network-Defense-Lab)     |
-| Framework, Controls and Audit          | [Security Audit Lab](https://github.com/Jagyiri-Cyber/Security-Audit-Lab/blob/main/README.md) |
-| Python Script Automation for Acccess Control   | [Python Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
+| Configured a virtual SOC with OPNSense Firewall (High Availability), Suricata IDS/IPS, Squid Proxy, and Wazuh SIEM for real-time threat monitoring and network security management.       | [Network Defense & SOC Lab](https://github.com/Jagyiri-Cyber/Network-Defense-Lab)     |
+| Conducted a NIST-based cybersecurity assessment across a fictional enterprise, identifying vulnerabilities and recommending improvements for robust security posture.          | [Security Audit Lab](https://github.com/Jagyiri-Cyber/Security-Audit-Lab/blob/main/README.md) |
+| Developed a Python script to automate the updating and removal of unauthorized IP addresses, enhancing access control and security operations.   | [Python Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
+| Utilized Wireshark for packet capture, data extraction, and analysis to identify anomalies and improve incident response.        |  [Network Forensics Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
+
 <!-- | Network Traffic Monitoring and Attack Detection | [Network Security Project](#) | 
 | SIEM Implementation and Log Analysis        | [SOC Automation Lab](#)     |
 | Incident Response with Chronicle and Splunk   | [Incident Response Lab](#)  |
